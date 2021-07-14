@@ -1,6 +1,6 @@
 # Hello World !! :earth_africa: :computer:
 
-<img align="right" alt="girBia-removebg-preview png" src="https://github.com/BeatrizRodrigues/BeatrizRodrigues/blob/main/imagens/girBia-removebg-preview.png" width="190" />
+<img align="right" width="400" height="400" alt="girBia-removebg-preview png" src="https://github.com/BeatrizRodrigues/BeatrizRodrigues/blob/main/imagens/girBia-removebg-preview.png"/>
 
 ### Prazer, me chamo Beatriz Rodrigues :woman_technologist:
 
