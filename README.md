@@ -24,8 +24,3 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
  </div>
- 
- <h3>Contato:</h3>
-[![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/BeatrizRodrigues)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rafaelproinfo/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flate&logo=gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelproinfo@gmail.com)
