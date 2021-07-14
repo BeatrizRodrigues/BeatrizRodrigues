@@ -12,7 +12,7 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
   </em>  
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizRodrigues=true&theme=radical)(https://github.com/BeatrizRodrigues/github-readme-stats)]
 
 
 Conhecimentos:
