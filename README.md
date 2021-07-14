@@ -7,11 +7,14 @@
 
 <p>
   <em>
-Graduanda em Ciência da computação (UENP) que busca melhorar a si mesma cada dia mais, sou desenvolvedora 
-full stack junior e sempre estou buscando aprender tecnologias novas 
+Graduanda em Ciência da computação (UENP), sou desenvolvedora 
+full stack junior e sempre estou buscando aprender tecnologias novas e me aprimorar cada dia mais.
   </em>  
 </p>
-    
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 Conhecimentos:
 
 Contato:
