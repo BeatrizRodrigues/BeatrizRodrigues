@@ -1,5 +1,11 @@
-#### Hello World !! :earth_africa: :computer:
+### Hello World !! :earth_africa: :computer:
 
-## I'm Beatriz Rodrigues :woman_technologist:
+# Prazer, me chamo Beatriz Rodrigues :woman_technologist:
+
+Sou graduanda em Ciência da computação (UENP), sou desenvolvedora full stack junior e sempre estou buscando aprender tecnologias novas 
+
+#Conhecimentos:
+
+#Contato:
 
 
