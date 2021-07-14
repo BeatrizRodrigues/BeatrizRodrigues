@@ -23,6 +23,6 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
 
 <h3>Contato:</h3>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/BeatrizRodrigues)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/beatriz-rodrigues-7b7627195/)
+[![Linkedin Badge](https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-s%C3%ADmbolo.jpg?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/beatriz-rodrigues-7b7627195/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:beatriz.ap.freitas.rodrigues@gmail.com)
 
