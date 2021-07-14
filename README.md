@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World !! :earth_africa: :computer:
+
+##I'm Beatriz Rodrigues :woman_technologist:
+
 
 <!--
 **BeatrizRodrigues/BeatrizRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
