@@ -36,7 +36,7 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
 <br>
 <div>
     <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizRodrigues&layout=compact&show_icons=true&theme=radical" height="50" width="300" alt="BeatrizRodrigues"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizRodrigues&layout=compact&show_icons=true&theme=radical" height="300" width="1800" alt="BeatrizRodrigues"/> 
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizRodrigues&show_icons=true&theme=radical"/>
     </p>    
 </div>
