@@ -31,9 +31,9 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
 <div>
   <a href="https://github.com/BeatrizRodrigues"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/beatriz-rodrigues-7b7627195/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="beatriz.ap.freitas.rodrigues@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto: beatriz.ap.freitas.rodrigues@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
-
+<br>
 <div>
     <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizRodrigues&layout=compact&show_icons=true&theme=radical" alt="BeatrizRodrigues"/> 
