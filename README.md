@@ -34,8 +34,3 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
   <a href="mailto: beatriz.ap.freitas.rodrigues@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
 <br>
-<div>
-    <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizRodrigues&layout=compact&show_icons=true&theme=radical" alt="BeatrizRodrigues"/>
-    </p>    
-</div>
