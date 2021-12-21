@@ -21,6 +21,7 @@ full stack junior e sempre estou buscando aprender tecnologias novas e me aprimo
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
